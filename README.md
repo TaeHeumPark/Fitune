@@ -4,6 +4,8 @@
 
 ![ic_fitune_favicon.png](https://file.notion.so/f/f/cbb7da87-1b39-429d-b9a7-42e9c68c2314/58279549-e726-4a37-8483-b11298ea2b92/ic_fitune_favicon.png?id=40279fcc-b696-43c7-877d-bce527b96482&table=block&spaceId=cbb7da87-1b39-429d-b9a7-42e9c68c2314&expirationTimestamp=1697673600000&signature=VTEf9yw9UN3pYKve-_BtYQTSiW9NGqMvoMQrj_eujbU&downloadName=ic_fitune_favicon.png)
 
+[asd](https://file.notion.so/f/f/cbb7da87-1b39-429d-b9a7-42e9c68c2314/58279549-e726-4a37-8483-b11298ea2b92/ic_fitune_favicon.png?id=40279fcc-b696-43c7-877d-bce527b96482&table=block&spaceId=cbb7da87-1b39-429d-b9a7-42e9c68c2314&expirationTimestamp=1697673600000&signature=VTEf9yw9UN3pYKve-_BtYQTSiW9NGqMvoMQrj_eujbU&downloadName=ic_fitune_favicon.png)
+
 
 ## [🎯 프로젝트 소개](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
 
