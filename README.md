@@ -1,11 +1,11 @@
-# 🏋🏻 Fitune [](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-dubeng-)🏋🏻
+# 🏋🏻 Fitune 🏋🏻
 
 **심박수 기반 운동 종목, 강도 추천**
 
 ![ic_fitune_favicon](https://github.com/TaeHeumPark/Fitune/assets/69237887/4c517b6d-2fa6-4e3f-9028-9f3ded9ee954)
 
 
-## [🎯 프로젝트 소개](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
+## 🎯 프로젝트 소개
 
 🏷️ **프로젝트명** : **Fitune (Fit + Fortune)**
 
@@ -88,7 +88,7 @@
 | --- | --- | --- | --- | --- |
 | BE / Infra | BE | BE | BE | FE |
 
-## [📢 주요 기능 📢](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-)
+## 📢 주요 기능 📢
 
 ---
 
@@ -110,7 +110,7 @@
 
 - 모든 튜토리얼 완료 후 나만의 세포 이름 생성하기
 
-![ezgif.com-video-to-gif.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/e81bd439-39f4-4755-ad64-9ad4561af23c/ezgif.com-video-to-gif.gif)
+![튜토리얼](https://github.com/TaeHeumPark/Fitune/assets/69237887/69673c5c-a74f-4aee-870e-815989f3d967)
 
 ## 홈
 
@@ -126,7 +126,7 @@
 
 - 세포의 경험치, 레벨에 따른 이미지를 통해 유저가 동기 부여를 받을 수 있습니다.
 
-![ezgif.com-video-to-gif (2).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/70f1ec55-4246-4d1f-9f0c-7202bec5aaba/ezgif.com-video-to-gif_(2).gif)
+![홈](https://github.com/TaeHeumPark/Fitune/assets/69237887/e57877fd-7fe6-4eb5-8398-b2971a9b7fdd)
 
 ## 운동 진행, 종료, 기록
 
@@ -143,7 +143,7 @@
 - 자신이 운동을 했던 기록을 캘린더로 볼 수 있다.
 - 특정 운동한 날짜의 UI는 다르게 표시 되고, 운동한 날짜를 클릭하면 하단에 해당 날짜의 운동 정보를 볼 수 있다.
 
-![ezgif.com-video-to-gif (3).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/f1eabc92-ac67-47a3-b652-7ed9ae3b0c9e/ezgif.com-video-to-gif_(3).gif)
+![운동](https://github.com/TaeHeumPark/Fitune/assets/69237887/ab3f0c29-6beb-41e0-a133-2fbc7ec9b7c1)
 
 ## 대결하기
 
@@ -155,7 +155,7 @@
 
 - 운동 시간, 운동 bpm을 바탕으로 승패를 가른다.
 
-![ezgif.com-video-to-gif (4).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/93a25fd2-bd00-4e45-b468-b69c73ee4815/ezgif.com-video-to-gif_(4).gif)
+![대결](https://github.com/TaeHeumPark/Fitune/assets/69237887/2f3e676b-424b-4a45-a3aa-5472db6225d0)
 
 ## 마이페이지
 
@@ -168,7 +168,7 @@
 - 회원가입 시 선택했던 카테고리 장르를 확인할 수 있습니다.
 - 캘린더에 출석 현황이 표시됩니다.
 
-![ezgif.com-video-to-gif (5).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/c71f6e12-e3c4-4b61-8e77-32e6dbb41f27/ezgif.com-video-to-gif_(5).gif)
+![마이페이지](https://github.com/TaeHeumPark/Fitune/assets/69237887/1a2953ec-14e5-4c8b-9ad6-251b3b973ef9)
 
 ## 💥 아키텍처 💥
 
@@ -176,20 +176,20 @@
 
 !https://github.com/dubEng/dubEng/raw/main/img/architecture1.png
 
-## [💾 ERD 💾](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-erd-)
+## [💾 ERD 💾]()
 
 ---
 
-![특화 ERD.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/73f74f03-b4fa-4a0b-86eb-ffbba47e9d2b/%ED%8A%B9%ED%99%94_ERD.png)
+![특화 ERD](https://github.com/TaeHeumPark/Fitune/assets/69237887/6a36df6d-1410-4071-80ed-55cf6de09b64)
 
 ## 🎨 [목업](https://www.figma.com/file/tmsuUXvulZLYDSoURCfxVr/Untitled?type=design&node-id=0%3A1&mode=design&t=Vo9JuEQf7ndg1i1M-1) 🎨
 
 ---
 
-![특화 목업.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/751f1d51-2799-43a4-a1bd-8c00535f43a0/%ED%8A%B9%ED%99%94_%EB%AA%A9%EC%97%85.png)
+![특화 목업](https://github.com/TaeHeumPark/Fitune/assets/69237887/64581ab0-33df-4341-babf-c12ea8b5fc92)
 
-## [📜](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-api-%EB%AA%85%EC%84%B8%EC%84%9C-) [API 명세서](https://www.notion.so/8b719696c6834ce8b55ae37207e539fb?pvs=21) 📜
+## 📜 [API 명세서](https://www.notion.so/8b719696c6834ce8b55ae37207e539fb?pvs=21) 📜
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/3a1cb3db-bfbe-436d-8264-e06474147a2e/Untitled.png)
+![특화 요구사항](https://github.com/TaeHeumPark/Fitune/assets/69237887/be9e09c2-7009-498a-a3d2-43cfb3a9ed9d)
