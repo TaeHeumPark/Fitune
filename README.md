@@ -2,13 +2,12 @@
 
 **심박수 기반 운동 종목, 강도 추천**
 
-![ic_fitune_favicon.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbb7da87-1b39-429d-b9a7-42e9c68c2314/58279549-e726-4a37-8483-b11298ea2b92/ic_fitune_favicon.png)
+![ic_fitune_favicon.png](https://file.notion.so/f/f/cbb7da87-1b39-429d-b9a7-42e9c68c2314/58279549-e726-4a37-8483-b11298ea2b92/ic_fitune_favicon.png?id=40279fcc-b696-43c7-877d-bce527b96482&table=block&spaceId=cbb7da87-1b39-429d-b9a7-42e9c68c2314&expirationTimestamp=1697673600000&signature=VTEf9yw9UN3pYKve-_BtYQTSiW9NGqMvoMQrj_eujbU&downloadName=ic_fitune_favicon.png)
+
 
 ## [🎯 프로젝트 소개](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
 
 🏷️ **프로젝트명** : **Fitune (Fit + Fortune)**
-
-## [🎤 서비스 이용해보기](https://github.com/dubEng/dubEng/blob/main/ReadME.md#-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 🖥 **서비스 apk 파일 주소** : [구글 드라이브 fitune apk](https://drive.google.com/file/d/1o9L3fDo-xrP70JmEsUHLGAQk1LsaAktl/view)
 
@@ -73,8 +72,7 @@
 
 | FrontEnd | BackEnd | Big Data | CI/CD |
 | --- | --- | --- | --- |
-| Android Studio | IntelliJ | Pycharm | Nginx 1.18.0
- |
+| Android Studio | IntelliJ | Pycharm | Nginx 1.18.0 |
 | Kotlin | Java 17 | Python 3.11.4 | Jenkins |
 | Wear OS | Spring Boot 3.0 | Django 3.1.5 | AWS EC2 |
 | Bluetooth Low Energy | Gradle | Pandas |  |
@@ -82,6 +80,7 @@
 | Room | MySQL |  |  |
 | Coroutines | Swagger |  |  |
 | ViewModel | Lombok |  |  |
+
 
 👨‍👧‍👧 **팀 소개 - 🙋‍♀️재미원툴🙋‍♂️**
 
