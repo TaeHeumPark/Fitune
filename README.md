@@ -126,9 +126,9 @@
 
 - 세포의 경험치, 레벨에 따른 이미지를 통해 유저가 동기 부여를 받을 수 있습니다.
 
-<p align="center>
+<p align="center">
 <img src="https://github.com/TaeHeumPark/Fitune/assets/69237887/e57877fd-7fe6-4eb5-8398-b2971a9b7fdd" width="200" height="400">
-</ p>
+</p>
 
 ## 운동 진행, 종료, 기록
 
