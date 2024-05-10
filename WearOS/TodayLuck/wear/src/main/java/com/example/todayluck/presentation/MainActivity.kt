@@ -61,7 +61,7 @@ class MainActivity : ComponentActivity() {
     private var findDevice : BluetoothDevice? = null
     var heartRateValue = 0
 
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) { 
         super.onCreate(savedInstanceState)
         setContent {
             if (checkSelfPermission(Manifest.permission.BODY_SENSORS) != PackageManager.PERMISSION_GRANTED) {
