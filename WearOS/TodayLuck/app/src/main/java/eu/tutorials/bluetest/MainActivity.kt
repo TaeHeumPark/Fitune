@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
             if(device.name == null) {
                 Log.d("LOGD", "기기 NULL")
             }
-            Log.d("asdasd", device.fetchUuidsWithSdp().toString());
+            Log.d("LOGD2", device.fetchUuidsWithSdp().toString());
 
             Log.d("asd",device.name)
             val uuid: UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB")  // 일반적인 SPP UUID
