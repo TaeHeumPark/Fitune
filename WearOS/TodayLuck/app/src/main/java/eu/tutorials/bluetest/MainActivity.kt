@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
             val device=  bluetoothAdapter.getRemoteDevice(deviceAddress)
             delay(3000)
             if(device.name == null) {
-                Log.d("asdasd", "왜널이노")
+                Log.d("LOGD", "기기 NULL")
             }
             Log.d("asdasd", device.fetchUuidsWithSdp().toString());
 
